@@ -1,6 +1,6 @@
 import os
 os.system ("cls")
-
+a=2
 a=str(input('ingresa una flor: '))
 b='ESPATAFILIO'
 c= 'espatafilio'
